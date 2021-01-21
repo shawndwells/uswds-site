@@ -443,7 +443,7 @@ ignore:
   SNYK-JS-GULPSCSSLINT-560114:
     - gulp-scss-lint:
         reason: No patch available
-        expires: '2021-01-06T19:39:05.429Z'
+        expires: '2021-02-20T21:03:28.792Z'
   SNYK-JS-HTTPPROXY-569139:
     - uswds > @frctl/fractal > browser-sync > http-proxy:
         reason: n/a
@@ -629,7 +629,29 @@ ignore:
   SNYK-JS-NODENOTIFIER-1035794:
     - node-notifier:
         reason: None given
-        expires: '2021-01-12T23:05:22.678Z'
+        expires: '2021-02-20T21:03:28.791Z'
+  SNYK-JS-GLOBPARENT-1016905:
+    - gulp-eslint > eslint > glob-parent:
+        reason: None given
+        expires: '2021-02-20T21:03:28.791Z'
+    - del > globby > fast-glob > glob-parent:
+        reason: None given
+        expires: '2021-02-20T21:03:28.791Z'
+    - uswds > del > globby > fast-glob > glob-parent:
+        reason: None given
+        expires: '2021-02-20T21:03:28.792Z'
+    - sass > chokidar > glob-parent:
+        reason: None given
+        expires: '2021-02-20T21:03:28.792Z'
+    - gulp > glob-watcher > chokidar > glob-parent:
+        reason: None given
+        expires: '2021-02-20T21:03:28.792Z'
+    - gulp > vinyl-fs > glob-stream > glob-parent:
+        reason: None given
+        expires: '2021-02-20T21:03:28.792Z'
+    - gulp-scss-lint > vinyl-fs > glob-stream > glob-parent:
+        reason: None given
+        expires: '2021-02-20T21:03:28.792Z'
 # patches apply the minimum changes required to fix a vulnerability
 patch:
   'npm:minimatch:20160620':
