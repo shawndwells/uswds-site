@@ -4,20 +4,20 @@
   {% fractal_component icon-list %}
 {% endcapture %}{{ icon-list | strip }}
 
-<h6 class="margin-bottom-2 padding-top-2 border-top-1px border-base-lighter">Don't List</h6>
+<h6 class="margin-bottom-2 padding-top-2 border-top-1px border-base-lighter">Large icon</h6>
 
-{% capture icon-list--dont-list %}
-  {% fractal_component icon-list--dont-list %}
-{% endcapture %}{{ icon-list--dont-list | strip }}
+{% capture icon-list--large-icon %}
+  {% fractal_component icon-list--large-icon %}
+{% endcapture %}{{ icon-list--large-icon | strip }}
 
-<h6 class="margin-bottom-2 padding-top-2 border-top-1px border-base-lighter">Do List</h6>
-
-{% capture icon-list--do-list %}
-  {% fractal_component icon-list--do-list %}
-{% endcapture %}{{ icon-list--do-list | strip }}
-
-<h6 class="margin-bottom-2 padding-top-2 border-top-1px border-base-lighter">Complex List</h6>
+<h6 class="margin-bottom-2 padding-top-2 border-top-1px border-base-lighter">Default with title and description</h6>
 
 {% capture icon-list--complex-list %}
   {% fractal_component icon-list--complex-list %}
 {% endcapture %}{{ icon-list--complex-list | strip }}
+
+<h6 class="margin-bottom-2 padding-top-2 border-top-1px border-base-lighter">Large with title and description</h6>
+
+{% capture icon-list--complex-list2 %}
+  {% fractal_component icon-list--complex-list2 %}
+{% endcapture %}{{ icon-list--complex-list2 | strip }}

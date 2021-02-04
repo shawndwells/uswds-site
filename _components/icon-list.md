@@ -87,7 +87,7 @@ lead: An icon list displays a static unordered list of significant importance.
     <tr>
       <td data-title="Variant" class="flex-6">usa-icon-list--size-[size]</td>
       <td data-title="Description" class="flex-6">
-        <span class="font-lang-3xs">Change the size of an icon by updating [size] to 3, 4, 5, 6, 7, 8, or 9 as detailed on the icons component page (coming soon)</span>
+        <span class="font-lang-3xs">Change the size of all icons and title text in an Icon list by changing [size] to any of the font size tokens (e.g. xs, sm, md, lg, xl, 2xl, or 3xl). Note: 2xs and 3xs have been excluded from this variant.</span>
       </td>
     </tr>
   </tbody>
