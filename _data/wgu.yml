@@ -1,0 +1,135 @@
+- title: Integrated Physical Sciences
+  code: C165
+  credits: 3
+
+- title: Critical Thinking and Logic
+  code: C168
+  credits: 3
+
+- title: Data Management - Applications
+  code: C170
+  credits: 4
+
+- title: Network and Security - Foundations
+  code: C172
+  credits: 3
+
+- title: Scripting and Programming - Foundations
+  code: C173
+  credits: 3
+
+- title: Data Management Foundations
+  code: C175
+  credits: 3
+
+- title: Business of IT - Project Management
+  code: C176
+  credits: 4
+
+- title: Network and Security - Applications
+  code: C178
+  credits: 4
+
+- title: Introduction to IT
+  code: C182
+  credits: 4
+
+- title: Introduction to Geography
+  code: C255
+  credits: 3
+
+- title: IT Foundations
+  code: C393
+  credits: 4
+
+- title: IT Applications
+  code: C394
+  credits: 4
+
+- title: English Composition I
+  code: C455
+  credits: 3
+
+- title: English Composition II
+  code: C456
+  credits: 3
+
+- title: Introduction to Communication
+  code: C464
+  credits: 3
+
+- title: Networks
+  code: C480
+  credits: 4
+
+- title: Technical Communication
+  code: C768
+  credits: 3
+
+#- title: IT Capstone Written Project
+#  code: C769
+#  credits: 4
+
+- title: Web Development Foundations
+  code: C779
+  credits: 3
+
+- title: Managing Cloud Security
+  code: C838
+  credits: 4
+
+#- title: Introduction to Cryptography
+#  code: C839
+#  credits: 4
+
+#- title: Digital Forensics in Cybersecurity
+#  code: C840
+#  credits: 4
+
+- title: Legal Issues in Information Security
+  code: C841
+  credits: 4
+
+- title: Cyber Defense and Countermeasures
+  code: C843
+  credits: 6
+
+- title: Managing Information Security
+  code: C843
+  credits: 6
+
+- title: Emerging Technologies in Cybersecurity
+  code: C844
+  credits: 4
+
+- title: Information Systems Security
+  code: C845
+  credits: 4
+
+- title: Business of IT - Applications
+  code: C846
+  credits: 4
+
+- title: Applied Probability and Statistics
+  code: C955
+  credits: 3
+
+#- title: Applied Algebra
+#  code: C957
+#  credits: 3
+
+- title: Ethics in Technology
+  code: C961
+  credits: 3
+
+- title: American Politics and the US Constitution
+  code: C963
+  credits: 3
+
+#- title: Penetration Testing and Vulnerability Analysis
+#  code: D153
+#  credits: 3
+
+- title: Orientation
+  code: ORA1
+  credits: 0

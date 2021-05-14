@@ -1,0 +1,204 @@
+- certName: "Cloud Security Alliance (CSA) Certificate of Cloud Security Knowledge v3 (CCSKv3)"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: 241455593941
+  certVerificationURL: https://ccsk.cloudsecurityalliance.org/en
+
+- certName: "Cloud Security Alliance (CSA) Certificate of Cloud Security Knowledge v4 (CCSKv4)"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: HxDsbXcPt8vK6fnxcAgNRZPH
+  certVerificationURL: https://ccsk.cloudsecurityalliance.org/en
+
+- certName: "CompTIA A+"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: COMP001021796426
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+- certName: "CompTIA Cybersecurity Analyst (CySA+)"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: COMP001021796426
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+- certName: "CompTIA IT Operations Specialist (CIOS)"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: COMP001021796426
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+- certName: "CompTIA Linux+"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: COMP001021796426
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+- certName: "CompTIA Linux Network Professional (CLNP)"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: COMP001021796426
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+- certName: "CompTIA Network+"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: COMP001021796426
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+- certName: "CompTIA Project+"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: COMP001021796426
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+- certName: "CompTIA Secure Infrastructure Specialist (CSIS)"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: COMP001021796426
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+- certName: "CompTIA Security+"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: COMP001021796426
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+- certName: "CompTIA Security Analytics Professional (CSAP)"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: COMP001021796426
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+- certName: "CompTIA Systems Support Specialist (CSSS)"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: COMP001021796426
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+- certName: "CrowdStrike Certified Falcon Administrator (CCFA)"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: CCFA-82287090
+  certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
+
+
+
+#DoD Computer Network Defense
+#DoD Computer Network Defense Service Provider Auditor (CNDSP-Auditor, CND-AU)
+
+
+- certName: "Google IT Support Professional Certificate"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: "N/A"
+  certVerificationURL: ""
+
+- certName: "GSA Federal Executive Chief Information Officer (Federal CIO)"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: "N/A"
+  certVerificationURL: ""
+
+- certName: "ISACA Certified Information Systems Auditor (CISA)"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: "N/A"
+  certVerificationURL: "https://www.isaca.org/credentialing/cisa"
+
+- certName: "ISACA Certified Information Systems Manager (CISM)"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: "N/A"
+  certVerificationURL: "https://www.isaca.org/credentialing/cism"
+
+- certName: "ISC2 Certified Authorization Professional (CAP)"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: "470771"
+  certVerificationURL: "https://www.isc2.org/MemberVerification"
+
+- certName: "ISC2 Certified Information Systems Security Professional (CISSP)"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: "470771"
+  certVerificationURL: "https://www.isc2.org/MemberVerification"
+
+- certName: "ISC2 Information Systems Security Architecture Professional (CISSP-ISSAP)"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: "470771"
+  certVerificationURL: "https://www.isc2.org/MemberVerification"
+
+- certName: "ISC2 Information Systems Security Engineering Professional (CISSP-ISSEP)"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: "470771"
+  certVerificationURL: "https://www.isc2.org/MemberVerification"
+
+- certName: "ISC2 Information Systems Security Management Professional (CISSP-ISSMP)"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: "470771"
+  certVerificationURL: "https://www.isc2.org/MemberVerification"
+
+- certName: "ISC2 Secure Software Practitioner - Java"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: "470771"
+  certVerificationURL: "https://www.isc2.org/MemberVerification"
+
+- certName: "ISC2 Systems Security Certified Practitioner (SSCP)"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: "470771"
+  certVerificationURL: "https://www.isc2.org/MemberVerification"
+
+- certName: "ITIL 4 Foundation"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: "9980079617425315"
+  certVerificationURL: "https://www.axelos.com/certifications/itil-certifications"
+
+- certName: "NVIDIA Certificate of Competency, Fundamentals of Deep Learning for Computer Vision"
+  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certURL: someurl.com
+  certDescription: "some description"
+  certNumber: "5c7cf7a2c29e4c9bada9fa618d73a8c4"
+  certVerificationURL: "https://courses.nvidia.com/certificates/5c7cf7a2c29e4c9bada9fa618d73a8c4"
+
+
+
+#PMI Agile Certified Practitioner (PMI-ACP)
+#PMI Project Management Professional (PMP)
+#Scrum Alliance Certified Scrum Master (CSM)
+#Scrum Alliance Certified Scrum Product Owner (CSPO)
+#Scrum Alliance Certified Scrum Professional (CSP)
+#Scrum Alliance Certified Scrum Professional - Product Owner (CSP-PO)
+#Scrum Alliance Certified Scrum Professional - Scrum Master (CSP-SM)
