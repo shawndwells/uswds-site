@@ -1,13 +1,13 @@
 ---
-permalink: /components/overview/
+permalink: /certifications
 layout: styleguide
-title: Components
+title: Certificationsz
 category: Components
-lead: USWDS components are simple and consistent solutions to common user interface needs.
+lead: Certs are awesome.
 type: docs
-redirect_from:
-  - /components/
-  - /form-controls/
+#redirect_from:
+#  - /components/
+#  - /form-controls/
 ---
 
 {% assign uswdsComponents = site.components | where: "parent", null | where: "component.status", "ready" %}
@@ -23,6 +23,27 @@ redirect_from:
 
 See the [packages]({{ site.baseurl }}/components/packages/) section to learn about how to import only the components your project needs.
 
+
+<div class="usa-card-group flex-row margin-top-4">
+{% for cert in site.data.certifications %}
+{% assign tags = component.tags | join: " " %}
+  <li
+    class="usa-card site-component-card grid-col-6 tablet:grid-col-4 margin-bottom-2"
+    role="region"
+    aria-atomic="true"
+    data-meta="{{ cert.certName }} {{ tags }}">
+    <div class="usa-card__container">
+      <header class="usa-card__header">
+        <h3 class="usa-card__heading font-lang-lg"><a href="{{ cert.certURL }}">{{ cert.certName }}</a></h3>
+      </header>
+      <div class="usa-card__body font-lang-sm">
+        <p>{{ cert.certDescription | markdownify }}</p>
+        <p>Certification ID: <a href="{{ cert.certVerificationURL }}" target="_blank">{{ cert.certNumber }}</a></p>
+      </div>
+    </div>
+  </li>
+{% endfor %}
+<!--
 <div class="usa-card-group flex-row margin-top-4">
 {% for component in uswdsComponents %}
 {% assign tags = component.tags | join: " " %}
@@ -41,7 +62,7 @@ See the [packages]({{ site.baseurl }}/components/packages/) section to learn abo
     </div>
   </li>
 {% endfor %}
-
+-->
 <script>
 function filter(e){
     search = e.value.toLowerCase();

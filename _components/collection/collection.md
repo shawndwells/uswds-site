@@ -31,3 +31,26 @@ The collection component offers users a way to view short descriptions of relate
 Each item in the collection includes a headline that links to another page and (optionally) a small image, descriptive text, and metadata such as date, time, byline, and tags.
 
 Items in a collection should be related. This could be by publication date (for instance, all the content was posted in the last week), by content type (all articles, events, or blog posts), or by subject (all items relate to the same topic or theme). Be selective about what content you show in each collection. Consider limiting the number of items in each collection to six or fewer.
+
+ <div>
+  <h3 class="site-preview-heading tablet:margin-top-0">Media thumbnail</h3>
+  <ul class="usa-collection">
+{% for article in site.data.press %}
+    <li class="usa-collection__item">
+      <img class="usa-collection__img" src="{{ site.baseurl }}/{{ article.img }}" alt="Article Logo">
+      <div class="usa-collection__body">
+        <h3 class="usa-collection__heading">
+          <a class="usa-link" href="{{ article.url }}">{{ article.title }}</a>
+        </h3>
+        <p class="usa-collection__description">{{ article.description }}</p>
+        <ul class="usa-collection__meta" aria-label="More information">
+          <li class="usa-collection__meta-item">By {{ article.author }}</li>
+          <li class="usa-collection__meta-item"><time datetime="2019-11-12T12:00:00+01:00">{{ article.published }}</time></li>
+        </ul>
+      </div>
+    </li>
+{% endfor %} 
+  </ul> 
+</div>
+
+      
