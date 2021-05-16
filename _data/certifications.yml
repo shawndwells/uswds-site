@@ -1,96 +1,96 @@
 - certName: "Cloud Security Alliance (CSA) Certificate of Cloud Security Knowledge v3 (CCSKv3)"
-  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certLogo: "img/certification-logos/ccsk-logo.svg"
   certURL: someurl.com
   certDescription: "some description"
   certNumber: 241455593941
   certVerificationURL: https://ccsk.cloudsecurityalliance.org/en
 
 - certName: "Cloud Security Alliance (CSA) Certificate of Cloud Security Knowledge v4 (CCSKv4)"
-  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certLogo: "img/certification-logos/ccsk-logo.svg"
   certURL: someurl.com
   certDescription: "some description"
   certNumber: HxDsbXcPt8vK6fnxcAgNRZPH
   certVerificationURL: https://ccsk.cloudsecurityalliance.org/en
 
 - certName: "CompTIA A+"
-  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certLogo: "img/certification-logos/comptia-a.svg"
   certURL: someurl.com
   certDescription: "some description"
   certNumber: COMP001021796426
   certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
 
 - certName: "CompTIA Cybersecurity Analyst (CySA+)"
-  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certLogo: "img/certification-logos/comptia-cysa.jpg"
   certURL: someurl.com
   certDescription: "some description"
   certNumber: COMP001021796426
   certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
 
 - certName: "CompTIA IT Operations Specialist (CIOS)"
-  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certLogo: "img/certification-logos/comptia-cios.png"
   certURL: someurl.com
   certDescription: "some description"
   certNumber: COMP001021796426
   certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
 
 - certName: "CompTIA Linux+"
-  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certLogo: "img/certification-logos/comptia-linux.png"
   certURL: someurl.com
   certDescription: "some description"
   certNumber: COMP001021796426
   certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
 
 - certName: "CompTIA Linux Network Professional (CLNP)"
-  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certLogo: "img/certification-logos/comptia-clnp.png"
   certURL: someurl.com
   certDescription: "some description"
   certNumber: COMP001021796426
   certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
 
 - certName: "CompTIA Network+"
-  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certLogo: "img/certification-logos/comptia-network.png"
   certURL: someurl.com
   certDescription: "some description"
   certNumber: COMP001021796426
   certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
 
 - certName: "CompTIA Project+"
-  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certLogo: "img/certification-logos/comptia-project.png"
   certURL: someurl.com
   certDescription: "some description"
   certNumber: COMP001021796426
   certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
 
 - certName: "CompTIA Secure Infrastructure Specialist (CSIS)"
-  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certLogo: "img/certification-logos/comptia-csis.png"
   certURL: someurl.com
   certDescription: "some description"
   certNumber: COMP001021796426
   certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
 
 - certName: "CompTIA Security+"
-  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certLogo: "img/certification-logos/comptia-security.jpg"
   certURL: someurl.com
   certDescription: "some description"
   certNumber: COMP001021796426
   certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
 
 - certName: "CompTIA Security Analytics Professional (CSAP)"
-  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certLogo: "img/certification-logos/comptia-csap.png"
   certURL: someurl.com
   certDescription: "some description"
   certNumber: COMP001021796426
   certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
 
 - certName: "CompTIA Systems Support Specialist (CSSS)"
-  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certLogo: "img/certification-logos/comptia-csss.png"
   certURL: someurl.com
   certDescription: "some description"
   certNumber: COMP001021796426
   certVerificationURL: https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=5970JFLCDME1Q4G9
 
 - certName: "CrowdStrike Certified Falcon Administrator (CCFA)"
-  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certLogo: "img/certification-logos/crowdstrike-ccfa.png"
   certURL: someurl.com
   certDescription: "some description"
   certNumber: CCFA-82287090
@@ -103,35 +103,35 @@
 
 
 - certName: "Google IT Support Professional Certificate"
-  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certLogo: "img/certification-logos/google-it-support.png"
   certURL: someurl.com
   certDescription: "some description"
   certNumber: "N/A"
   certVerificationURL: ""
 
 - certName: "GSA Federal Executive Chief Information Officer (Federal CIO)"
-  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certLogo: "img/certification-logos/gsa-logo.png"
   certURL: someurl.com
   certDescription: "some description"
   certNumber: "N/A"
   certVerificationURL: ""
 
 - certName: "ISACA Certified Information Systems Auditor (CISA)"
-  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certLogo: "img/certification-logos/isaca-cisa.png"
   certURL: someurl.com
   certDescription: "some description"
   certNumber: "N/A"
   certVerificationURL: "https://www.isaca.org/credentialing/cisa"
 
 - certName: "ISACA Certified Information Systems Manager (CISM)"
-  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certLogo: "img/certification-logos/isaca-cism.png"
   certURL: someurl.com
   certDescription: "some description"
   certNumber: "N/A"
   certVerificationURL: "https://www.isaca.org/credentialing/cism"
 
 - certName: "ISC2 Certified Authorization Professional (CAP)"
-  certLogo: "img/media-logos/WashExecLogo.jpg"
+  certLogo: "img/certification-logos/isc2-cap.png"
   certURL: someurl.com
   certDescription: "some description"
   certNumber: "470771"
