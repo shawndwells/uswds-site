@@ -1,5 +1,5 @@
 ---
-permalink: /academics
+permalink: /academics/
 layout: styleguide
 title: Academics
 category: How to use USWDS
