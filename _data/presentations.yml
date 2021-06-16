@@ -1,0 +1,369 @@
+
+
+
+
+- sessionName: Red Hat System z & ISV Partner Program Overview
+  sessionDate: 2009-11-05
+  eventName: Red Hat Webinar
+  sessionAbstract: |
+    Presented with Michael Fremder (Red Hat ISV Marketing Manager). Presentation
+    steps through the Red Hat ISV Partner Program (signing up, benefits,
+    program points of contact).
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Current and Future Linux on System z Technology
+  sessionDate: 2009-10-07
+  eventName: IBM z/Expo 2009
+  sessionAbstract: |
+    Presented at IBM z/Expo 2009, Session ID zQV31. Update to
+    "Get the Hype" webinar.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Current and Future Linux on System z Technology
+  sessionDate: 2009-09-24
+  eventName: IBM Get the Hype on System z Webinar
+  sessionAbstract: |
+    Joint webinar series with Hans Picht (Linux on System z Lead, IBM). Covered
+    recent release of Red Hat Enterprise Linux 5.4, which had the inclusion of
+    Named Saved Segments (NSS), updated fiber channel, and rebasing of s390utils.
+    Stepped through roadmap for RHEL on System z and gave update on
+    CMM2 development activities.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Managing your Red Hat Enterprise Linux Guests with RHN Satellite
+  sessionDate: 2009-08-24
+  eventName: SHARE Denver 2009
+  sessionAbstract: |
+    Presented at SHARE Denver 2009, Session ID 9204. Stepped through what
+    Red Hat Network Satellite is, what modules are included, various deployment
+    architectures, and how to run RHN Satellite on System z. Finished with live
+    demo.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Linux Audit Subsystem Deep Dive
+  sessionDate: 2009-08-24
+  eventName: SHARE Denver 2009
+  sessionAbstract: |
+    Why is Linux auditing needed? What can it do for me? How does it work?
+    What events get audited? How do I make sense of all the data?
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Linux Security Overview
+  sessionDate: 2009-08-11
+  eventName: IBM Teach the Teachers (IBM T3)
+  sessionAbstract: |
+    Co-presented with Matt Jamison (Sr Architect, DoD Programs) at the IBM Teach the Teacher
+    (IBM T3) conference. Discussed SELinux, Policy Enforcement,
+    Discretionary Access Control, Multi-Level Security vs Multi-Category Security,
+    Role-Based Access Control, usage of SELinux, Linux Audit Subsystem, and
+    host hardening procedures.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Red Hat System z Update
+  sessionDate: 2009-07-28
+  eventName: Red Hat Analyst Briefing
+  sessionAbstract: |
+    Slides used during the 2009-JUL-28 Analyst Relations call for System z.
+    
+    Co-presented with Nick Carr (Director, Industry Analyst Relations).
+
+    Spoke through Red Hat's corporate overview, System z Revenue Growth,
+    and updated market share statistics.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Red Hat Network Satellite (on System z)
+  sessionDate: 2009-06-18
+  eventName: CAVMEN System z Users Group
+  sessionAbstract: |
+    Red Hat Network (RHN) Satellite is a tool which can provision, manage,
+    update, and monitor your RHEL VMs running on System z -- with the added
+    bonus of managing your distributed systems too. In this session we will
+    talk through how RHN Satellite works, step through provisioning RHEL VMs
+    on a System z, show how to deploy your own (custom) applications, give an
+    overview of the internal communication subsystems, then proceed with a
+    live demo.
+    
+    If network conditions are right, we will remote into Red Hat's production
+    z9 and detail out our internal configuration.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: System z Update
+  sessionDate: 2009-06-18
+  eventName: CAVMEN System z Users Group
+  sessionAbstract: |
+    Invited to return to CAVMEN to deliver an update on RHEL for System z.
+    Was asked to discuss Red Hat community contributions and how the
+    upstream->fedora->RHEL model works. Discussed libVirt as an API
+    capable of communicating to multiple hypervisors.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Current and Future State of Linux on System z
+  sessionDate: 2009-06-15
+  eventName: Marist College Summer Series
+  sessionAbstract: |
+    Invited to return to Marist College for the 2009 conference. Spoke about
+    open source in universities, introduced Red Hat's "Open Source University" program
+    and coursework.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: A Customer's Perspective on Making Enterprise Linux Deployable, Scalable, and Manageable
+  sessionDate: 2009-04-14
+  eventName: Webinar
+  sessionAbstract: |
+    Customer deployment story of how Salt River Project deployed RHN Satellite to manage their RHEL
+    on System z infrastructure. Steps through key features that brought value and their lessons
+    learned.
+    
+    Co-presented with Kevin Masaryk (Linux/UNIX Admin @ Salt River Project) and
+    Chris Wells (Product Marketing Manager, Red Hat Satellite).
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Current and Future State of Linux on System z
+  sessionDate: 2009-04-14
+  eventName: IBM Global ISV Partnership Call
+  sessionAbstract: |
+    Presented at Atlanta System z Council meeting. Steps through Red Hat System z updates,
+    RHEL 5.3 release (what's new, what's coming), and talks about upstream development
+    efforts for Linux on System z (s390x). Mentions of accelerated in-kernel cryptography,
+    OSA port updates, SELinux per-package access controls, nf_conntrack subsystem,
+    auditing updates, address space randomization, high resolution timers.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Taking "Green" Beyond the Hardware
+  sessionDate: 2009-03-18
+  eventName: IBM "Go Green" Conference
+  sessionAbstract: |
+    Presented at IBM "Go Green" event in Raleigh.
+    Audience was largely hardware focused, interested in
+    software improvements to hardware energy consumption.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Current and Future State of Linux on System z
+  sessionDate: 2009-03-13
+  eventName: Atlanta System z Council Meeting
+  sessionAbstract: |
+    Presented at Atlanta System z Council meeting. Steps through Red Hat System z updates,
+    RHEL 5.3 release (what's new, what's coming), and talks about upstream development
+    efforts for Linux on System z (s390x). Mentions of accelerated in-kernel cryptography,
+    OSA port updates, SELinux per-package access controls, nf_conntrack subsystem,
+    auditing updates, address space randomization, high resolution timers.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Current and Future State of Linux on System z
+  sessionDate: 2009-03-03
+  eventName: IBM SHARE Conference
+  sessionAbstract: |
+    Presented at SHARE conference, March 2009. Steps through Red Hat System z updates,
+    RHEL 5.3 release (what's new, what's coming), and talks about upstream development
+    efforts for Linux on System z (s390x). Mentions of accelerated in-kernel cryptography,
+    OSA port updates, SELinux per-package access controls, nf_conntrack subsystem,
+    auditing updates, address space randomization, high resolution timers.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Red Hat on System z Performance Considerations
+  sessionDate: 2009-01-28
+  eventName: U.S. Department of Interior, National Business Center (DOI NBC)
+  sessionAbstract: |
+    Presented with the U.S. Department of the Interior, National Business Center. DOI NBC
+    offered a for-fee Linux on System z to the U.S. Government. This presentation steps
+    through performance management considerations, including: FCP/SCSI single path vs
+    multipath LMV; filesystem striping; crypto express2 accelerator (CEX2A) SSL
+    handshakes; cryptographic performance (WebSEAL SSL Access); and CMM1 & CMMA.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Current & Future State of Linux on System z
+  sessionDate: 2009-01-28
+  eventName: U.S. Department of Interior, National Business Center (DOI NBC)
+  sessionAbstract: |
+    Presented with the U.S. Department of Interior, National Business Center. DOI NBC
+    offered a for-fee Linux on System z environment to the U.S. Government. This call
+    was to update their customers on the current and future state of Linux on System
+    z.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: RHEL 5.3 for System z
+  sessionDate: 2009-01-20
+  eventName: Red Hat Webinar
+  sessionAbstract: |
+    RHEL 5.3 update for System z. Covers kernel, filesystem, and other
+    hardware enablement features released with Red Hat Enterprise
+    Linux 5.3.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Red Hat Update
+  sessionDate: 2009-01-14
+  eventName: IBM Destination z Field Call
+  sessionAbstract: |
+    Overview of Red Hat's System z business, details of the
+    Red Hat partner programs, and customer success stories.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: System z Partners Field Call
+  sessionDate: 2008-12-02
+  eventName: Webinar
+  sessionAbstract: |
+    Public call for Red Hat System z partners globally. Stepped through current
+    Red Hat/IBM relationship, current System z campaigns, technical review of
+    Red Hat Enterprise Linux (RHEL) roadmap.
+
+    Introduced several new customer references:
+    (1) City Government of Recife, Brazil
+    (2) Fratelli Carli in Italy
+    (3) EDB in the Nordics
+    (4) Salt River Project in USA
+    (5) Bank of New Zealand
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: "Red Hat Deep Dive Sessions: Linux on System z"
+  sessionDate: 2008-11-13
+  eventName: CAVMEN (Chicago Area VM (and Linux) Enthusiasts)
+  sessionAbstract: |
+    Audience was technical Linux on System z practitioners. Steps
+    through the Linux on System z development process, what is included
+    in RHEL for System z (now + future), provisioning and patch
+    management, and broad security updates (SELinux, Auditing,
+    Cryptography).
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: "Red Hat Deep Dive Sessions: SELinux"
+  sessionDate: 2008-10-15
+  eventName: IBM z/Expo 2008
+  sessionAbstract: |
+    Presented at IBM zExpo 2008, Session ID zLS01. Talked through what
+    SELinux is, introduces principle concepts of Type Enforcement, SELinux
+    polocies, and user/admin perspectives of managing a system with
+    SELinux enabled.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Red Hat Update for System z
+  sessionDate: 2008-10-14
+  eventName: IBM zExpo 2008
+  sessionAbstract: |
+    Presented at IBM zExpo 2008, Session ID zQV18. Covered
+    RHEL 5.2, RHEL 5.3, and RHEL 5 future roadmap. Reviewed Red Hat
+    System z support models. Stepped through future development activities
+    occuring in Fedora (upstream of RHEL). Announced the z10 Business Class
+    promotion (50% off IFL subscriptions!).
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Managing your Red Hat Enterprise Linux Guests with RHN Satellite
+  sessionDate: 2008-10-14
+  eventName: IBM zExpo 2008
+  sessionAbstract: |
+    Presented at IBM zExpo 2008, Session ID zLP07. Stepped through
+    what Red Hat Network Satellite is, the modules for systems management,
+    deployment architectures, and how to run Satellite on Sysetm z.
+
+    Co-presented with Brad Hinson of Red Hat.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Red Hat Update for System z
+  sessionDate: 2008-09-09
+  eventName: IBM Interaction Conference
+  sessionAbstract: |
+    Topics included Red Hat introduction and company overview, Red Hat
+    technology update (RHEL, virtualization plans, security), and
+    a System z specific roadmap.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Managing your Red Hat Enterprise Linux Guests with RHN Satellite
+  sessionDate: 2008-08-14
+  eventName: SHARE Conference
+  sessionAbstract: |
+    How do you manage Red Hat Enterprise Linux on System z at scale? What
+    is Red Hat Network Satellite? How does it work?
+
+    Co-presented with Brad Hinson of Red Hat.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: "SELinux: A Key Component in Secure Infrastructures"
+  sessionDate: 2008-08-12
+  eventName: SHARE Conference
+  sessionAbstract: |
+    Presented at IBM SHARE conference. Topics include SELinux, type
+    enforcement, SELinux usage, and example scenarios.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Red Hat Update for System z
+  sessionDate: 2008-07-30
+  eventName: IBM Teach the Teacher (IBM T3)
+  sessionAbstract: |
+    Red Hat update at the IBM Teach the Teacher (IBM T3) conference in Endicott, NY. Covered
+    Red Hat's community development model, System z announcements, SELinux, SCAP,
+    and Red Hat Network Satellite for Systems Management.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Red Hat Enterprise Solutions for System z
+  sessionDate: 2008-07-15
+  eventName: System z New Technology Program (zNTP)
+  sessionAbstract: |
+    Latest Red Hat updates for System z platform, RHEL 5 review/roadmap, Red Hat
+    Network Satellite overview.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Red Hat Enterprise Linux and System z
+  sessionDate: 2008-06-25
+  eventName: Marist College System z Summer Professors Series
+  sessionAbstract: |
+    Invited to speak at Marist College on how Red Hat uses Linux on IBM
+    System z, and what's new with RHEL for System z.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Red Hat Security Seminar
+  sessionDate: 2008-03-06
+  eventName: Harris Corp Security Seminar
+  sessionAbstract: |
+    Topics included Red Hat emerging technologies,
+    general Red Hat security, and hands-on labs.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Red Hat Overview
+  sessionDate: 2008-01-23
+  eventName: CUNY Information Managers Forum
+  sessionAbstract: |
+    Topics included incident response, SELinux, and
+    Red Hat Enterprise Linux 5 security.
+    Co-presented with Mark St Laurent and Michael Brown.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com
+
+- sessionName: Red Hat Security Roadmap
+  sessionDate: 2008-01-22
+  eventName: Red Hat Security Seminar
+  sessionAbstract: |
+    Red Hat security roadmap, covering Red Hat emerging technologies,
+    virtualization, security/MLS/common criteria, high availability, and
+    Red Hat's future direction.
+  downloadPDF: https://download.com
+  downloadVideo: https://video.com

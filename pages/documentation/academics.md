@@ -1,43 +1,55 @@
 ---
-permalink: /academics/
+permalink: /academics-and-certifications/
 layout: styleguide
-title: Academics
-category: How to use USWDS
-lead: school stuffs.
+title: Academics and Certifications
+category: Academics and Certifications
+lead: Some language about continuing education. 
+type: docs
+subnav:
+  - text: Postgraduate
+    href: '#postgraduate'
+  - text: Undergraduate
+    href: '#undergraduate'
+  - text: Industry Certifications
+    href: '#industry-certifications'
 ---
 
-## Get started with USWDS
+{% assign postgradCredentials = site.data.postgrad %}
+{% assign undergradCretentials = site.data.undergrad %}
+{% assign industryCertifications = site.data.certifications %}
+
 
 <div class="grid-row grid-gap flex-align-stretch margin-top-4">
   <div class="tablet:grid-col display-flex flex-align-stretch">
     <div class="site-docs-card-link">
       <h3 class="font-lang-lg margin-0">
-        <a href="{{ site.baseurl }}/getting-started/developers/" class="text-no-underline text-primary hover:text-underline block-link">Post Graduate</a>
+        <a href="{{ site.baseurl }}/academics/#postgraduate" class="text-no-underline text-primary hover:text-underline block-link">
+        Postgraduate</a>
       </h3>
-      <p class="margin-top-1">postgrad certs.</p>
+      <p class="margin-top-1"><strong>{{ postgradCredentials.size }}</strong> postgraduate academic credentials.</p>
     </div>
   </div>
   <div class="margin-top-2 tablet:margin-top-0 tablet:grid-col display-flex flex-align-stretch">
     <div class="site-docs-card-link">
       <h3 class="font-lang-lg margin-0">
-        <a href="{{ site.baseurl }}/getting-started/designers/" class="text-no-underline text-primary hover:text-underline block-link">Undergraduate</a>
+        <a href="{{ site.baseurl }}/academics/#undergraduate/" class="text-no-underline text-primary hover:text-underline block-link">Undergraduate</a>
       </h3>
-      <p class="margin-top-1">basic.</p>
+      <p class="margin-top-1"><strong>{{ undergradCretentials.size }}</strong> undergraduate academic credentials.</p>
     </div>
   </div>
   <div class="tablet:grid-col margin-top-2 tablet:margin-top-0 display-flex flex-align-stretch">
     <div class="site-docs-card-link">
       <h3 class="font-lang-lg margin-0">
-        <a href="https://github.com/uswds/uswds/wiki" class="block-link text-no-underline text-primary hover:text-underline">Industry Certifications</a>
+        <a href="{{ site.baseurl }}/academics/#industry-certifications/" class="block-link text-no-underline text-primary hover:text-underline">Industry Certifications</a>
       </h3>
-      <p class="margin-top-1">dem certs.</p>
+      <p class="margin-top-1"><strong>{{ industryCertifications.size }}</strong> actively maintained industry certifications.</p>
     </div>
   </div>
 </div>
 
 {:.border-top-05.border-primary.padding-top-3.margin-top-6}
 
-## Post Graduate
+## Postgraduate
 <p>sample text</p><br/>
 <ul class="usa-card-group">
 {% for degree in site.data.postgrad %}

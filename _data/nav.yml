@@ -5,8 +5,8 @@ primary:
   - href: /components/
   - href: /design-tokens/
   - href: /utilities/
-  - href: /templates/
-  - href: /about/
+  - href: /press-and-media/
+  - href: /academics-and-certifications/
 
 mobile:
   - href: /how-to-use-uswds/
@@ -18,10 +18,18 @@ mobile:
     collapsible: true
   - href: /utilities/
     collapsible: true
-  - href: /templates/
+  - href: /press-and-media/
     collapsible: true
-  - href: /about/
+  - href: /academics/
     collapsible: true
+
+Academics and Certifications:
+  - text: Academics and Certifications
+    href: /academics-and-certifications/
+
+Press and Media:
+  - text: Press and Media
+    href: /press-and-media/
 
 Components:
   - text: Components
@@ -93,6 +101,7 @@ How to use USWDS:
   - href: /certifications/
   - href: /press-and-media/
   - href: /academics/
+  - href: /presentations/
 
 Design tokens:
   - href: /design-tokens/

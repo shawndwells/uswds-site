@@ -4,21 +4,23 @@
   description: "Shawn Wells, senior principal and chief security strategist of Red Hat‘s U.S. public sector,
     has won the WashingtonExec Pinnacle Award for the Cybersecurity Industry Executive of the Year."
   author: STAFF WRITER
-  published: November 12, 2019
+  published: 2019-11-12
+  outlet: WashingtonExec Magazine
 
 - title: "(televised interview) GovLoop’s Talking Transformation: Cyber Trends"
   img: assets/img/GovMattersLogo.png
   url: https://govmatters.tv/govloops-talking-transformation-cyber-trends/
   description: "The U.S is on the cutting edge of technology. Find out what’s on the horizon from government and industry professionals."
   author: Francis Rose
-  published: July 15, 2019
+  published: 2019-07-15
+  outlet: GovMatters TV
 
 - title: "Enabling the cyber workforce through the Open Organization"
   img: assets/img/wtopnewslogo.jpg
   url: https://wtop.com/open-first/2018/11/enabling-the-cyber-workforce-through-the-open-organization/
   description: "Cyber professionals must not only be trained with the proper skill sets, they must be empowered and motivated to move beyond traditional role-based jobs to concentrate on mission-focused outcomes."
   author: STAFF WRITER
-  published: November 2, 2018
+  published: 2018-11-02
 
 - title: How States Need to Tackle Cybersecurity
   img: assets/img/StateTechLogo.png
@@ -103,139 +105,35 @@
   url: 
   description: "Federal News Radio Interview"
   author: WTOP
-  published: May 15, 2015
+  published: 2015-05-15
 
 - title: FCW Rising Star Award
   img: assets/img/fcwlogo.jpg
   url: https://fcw.com/articles/2014/11/30/rising-star_wells-shawn.aspx
   description: "When Shawn Wells, director of innovation programs for Red Hat's U.S. public-sector group, wrote a security guide for the open-source Security Content Automation Protocol, he was moving forward on an idea that most people weren't even talking about yet."
   author: Colby Hochmuth
-  published: November 30, 2014
+  published: 2014-11-30
 
 - title: "2014: Year of Open Source Miracles"
   img: assets/img/opensourcecomlogo.svg
   url: https://opensource.com/government/14/11/open-source-software-security-vulnerabilities
   description: "Open source software is still software and vulnerabilities are expected. Unlike a filesystem bug or a kernel panic, they cause no pain until they strike."
   author: Gunnar Hellekson
-  published: November 25, 2014
+  published: 2014-11-25
 
 - title: Big Savings with Multi-level Security in Altair PBS Pro
   img: assets/img/insidehpclogo.png
   url: https://insidehpc.com/2013/12/big-savings-multi-level-security-altair-pbs-pro/
   description: "In this video from SC13, Shawn Wells from Red Hat, Inc. describes how the company’s MLS technology works in PBS Professional."
   author: Doug Black
-  published: December 2, 2013
+  published: 2013-12-02
 
 - title: "iTEN Wired 2013 Interview: Shawn Wells of Red Hat"
   img: assets/img/itenwiredlogo.jpg
   url: https://www.youtube.com/watch?v=AbiyPCExi3E
   description: "Interview: Shawn Wells of Red Hat and morning keynote speaker."
   author: ITEN WIRED
-  published: January 21, 2015
-
-- title: title
-  img: asd
-  url: asd
-  description: "Shawn Wells, senior principal and chief security strategist of Red Hat‘s U.S. public sector,
-    has won the WashingtonExec Pinnacle Award for the Cybersecurity Industry Executive of the Year."
-  author: STAFF WRITER
-  published: November 12, 2019
-
-- title: title
-  img: asd
-  url: asd
-  description: "Shawn Wells, senior principal and chief security strategist of Red Hat‘s U.S. public sector,
-    has won the WashingtonExec Pinnacle Award for the Cybersecurity Industry Executive of the Year."
-  author: STAFF WRITER
-  published: November 12, 2019
-
-- title: title
-  img: asd
-  url: asd
-  description: "Shawn Wells, senior principal and chief security strategist of Red Hat‘s U.S. public sector,
-    has won the WashingtonExec Pinnacle Award for the Cybersecurity Industry Executive of the Year."
-  author: STAFF WRITER
-  published: November 12, 2019
-
-- title: title
-  img: asd
-  url: asd
-  description: "Shawn Wells, senior principal and chief security strategist of Red Hat‘s U.S. public sector,
-    has won the WashingtonExec Pinnacle Award for the Cybersecurity Industry Executive of the Year."
-  author: STAFF WRITER
-  published: November 12, 2019
-
-- title: title
-  img: asd
-  url: asd
-  description: "Shawn Wells, senior principal and chief security strategist of Red Hat‘s U.S. public sector,
-    has won the WashingtonExec Pinnacle Award for the Cybersecurity Industry Executive of the Year."
-  author: STAFF WRITER
-  published: November 12, 2019
-
-- title: title
-  img: asd
-  url: asd
-  description: "Shawn Wells, senior principal and chief security strategist of Red Hat‘s U.S. public sector,
-    has won the WashingtonExec Pinnacle Award for the Cybersecurity Industry Executive of the Year."
-  author: STAFF WRITER
-  published: November 12, 2019
-
-- title: title
-  img: asd
-  url: asd
-  description: "Shawn Wells, senior principal and chief security strategist of Red Hat‘s U.S. public sector,
-    has won the WashingtonExec Pinnacle Award for the Cybersecurity Industry Executive of the Year."
-  author: STAFF WRITER
-  published: November 12, 2019
-
-- title: title
-  img: asd
-  url: asd
-  description: "Shawn Wells, senior principal and chief security strategist of Red Hat‘s U.S. public sector,
-    has won the WashingtonExec Pinnacle Award for the Cybersecurity Industry Executive of the Year."
-  author: STAFF WRITER
-  published: November 12, 2019
-
-- title: title
-  img: asd
-  url: asd
-  description: "Shawn Wells, senior principal and chief security strategist of Red Hat‘s U.S. public sector,
-    has won the WashingtonExec Pinnacle Award for the Cybersecurity Industry Executive of the Year."
-  author: STAFF WRITER
-  published: November 12, 2019
-
-- title: title
-  img: asd
-  url: asd
-  description: "Shawn Wells, senior principal and chief security strategist of Red Hat‘s U.S. public sector,
-    has won the WashingtonExec Pinnacle Award for the Cybersecurity Industry Executive of the Year."
-  author: STAFF WRITER
-  published: November 12, 2019
-
-- title: title
-  img: asd
-  url: asd
-  description: "Shawn Wells, senior principal and chief security strategist of Red Hat‘s U.S. public sector,
-    has won the WashingtonExec Pinnacle Award for the Cybersecurity Industry Executive of the Year."
-  author: STAFF WRITER
-  published: November 12, 2019
-
-- title: title
-  img: asd
-  url: asd
-  description: "Shawn Wells, senior principal and chief security strategist of Red Hat‘s U.S. public sector,
-    has won the WashingtonExec Pinnacle Award for the Cybersecurity Industry Executive of the Year."
-  author: STAFF WRITER
-  published: November 12, 2019
-
-- title: title
-  img: asd
-  url: asd
-  description: "Shawn Wells, senior principal and chief security strategist of Red Hat‘s U.S. public sector,
-    has won the WashingtonExec Pinnacle Award for the Cybersecurity Industry Executive of the Year."
-  author: STAFF WRITER
-  published: November 12, 2019
+  published: 2015-01-21
 
 - title: title
   img: asd
