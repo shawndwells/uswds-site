@@ -5,6 +5,7 @@ primary:
   - href: /components/
   - href: /design-tokens/
   - href: /utilities/
+  - href: /public-speaking/
   - href: /press-and-media/
   - href: /academics-and-certifications/
 
@@ -18,6 +19,8 @@ mobile:
     collapsible: true
   - href: /utilities/
     collapsible: true
+  - href: /public-speaking/
+    collapsible: true
   - href: /press-and-media/
     collapsible: true
   - href: /academics/
@@ -30,6 +33,10 @@ Academics and Certifications:
 Press and Media:
   - text: Press and Media
     href: /press-and-media/
+
+Public Speaking:
+  - text: Public Speaking
+    href: /public-speaking/
 
 Components:
   - text: Components

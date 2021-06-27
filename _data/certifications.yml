@@ -165,13 +165,6 @@
   certNumber: "N/A"
   certVerificationURL: ""
 
-- certName: "GSA Federal Executive Chief Information Officer (Federal CIO)"
-  certLogo: "img/certification-logos/gsa-logo.png"
-  certURL: someurl.com
-  certDescription: "some description"
-  certNumber: "N/A"
-  certVerificationURL: ""
-
 - certName: "ISACA Certified Information Systems Auditor (CISA)"
   certLogo: "img/certification-logos/isaca-cisa.png"
   certURL: someurl.com
@@ -327,7 +320,12 @@
   certLogo: "img/certification-logos/scrumalliance-cspo.png"
   certURL: someurl.com
   certDescription: |
-    some text
+    A Certified Scrum Product Owner® is responsible for maximizing the value of the 
+    product resulting from work of the Development Team. 
+    
+    While the Scrum Master helps the Scrum Team work together to learn and implement Scrum, the Product Owner
+    creates a product vision, order the product backlog, and makes sure the best
+    possible job is done to delight the customers and other stakeholders.
   certNumber: "715553"
   certVerificationURL: "https://www.scrumalliance.org/community/profile/swells19"
 
@@ -335,7 +333,8 @@
   certLogo: "img/certification-logos/scrumalliance-csp.png"
   certURL: someurl.com
   certDescription: |
-    some text
+    The CSP is an advanced certification that indicates the recipient is both knowledgeable and
+    experienced in the practical and theoretical use of Scrum.
   certNumber: "715553"
   certVerificationURL: "https://www.scrumalliance.org/community/profile/swells19"
 
@@ -343,7 +342,9 @@
   certLogo: "img/certification-logos/scrumalliance-csp-po.png"
   certURL: someurl.com
   certDescription: |
-    some text
+    The Certified Scrum Professional-Product Owner (CSP-PO) certification demonstrates an understanding
+    of advanced stakeholder discussion; funding and financing; customer development; product launches;
+    and, advanced product discovery.
   certNumber: "715553"
   certVerificationURL: "https://www.scrumalliance.org/community/profile/swells19"
 
@@ -351,6 +352,8 @@
   certLogo: "img/certification-logos/scrumalliance-csp-sm.png"
   certURL: someurl.com
   certDescription: |
-    some text
+    Certified Scrum Professional-Scrum Master represents the culmination of the
+    path to Certified Scrum Professional (CSP) program and the highest-level
+    accreditation that Scrum Alliance offers to become a Professional Scrum Master.
   certNumber: "715553"
   certVerificationURL: "https://www.scrumalliance.org/community/profile/swells19"

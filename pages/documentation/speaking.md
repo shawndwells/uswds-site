@@ -1,18 +1,18 @@
 ---
-permalink: /press-and-media/
+permalink: /public-speaking/
 layout: styleguide
-title: Press and Media
+title: Public Speaking
 #category: Curriculum Vitae
-category: Press and Media
-lead: Media coverage including televised interviews, radio shows, press coverage, and authored articles.
+category: Public Speaking
+lead: Televised interviews, radio and podcasts, and conferences.
 type: docs
 subnav:
   - text: Television
     href: '#television'
   - text: Radio & Podcasts
     href: '#radio-podcasts'
-  - text: Press
-    href: '#press'
+  - text: Conferences
+    href: '#conferences'
 ---
 
 ## Television
@@ -36,7 +36,7 @@ subnav:
       </tr>
     </thead>
     <tbody>
-      {% assign articles = site.data.press | sort:"published" | reverse %}
+      {% assign articles = site.data.speaking | sort:"published" | reverse %}
       {% for article in articles %}
       {% if article.type == "tv" %}
       <tr>
@@ -78,7 +78,7 @@ subnav:
       </tr>
     </thead>
     <tbody>
-      {% assign articles = site.data.press | sort:"published" | reverse %}
+      {% assign articles = site.data.speaking | sort:"published" | reverse %}
       {% for article in articles %}
       {% if article.type == "radio" %}
       <tr>
@@ -99,7 +99,7 @@ subnav:
   <div class="usa-sr-only usa-table__announcement-region" aria-live="polite"></div>
 </div>
 
-## Press
+## Conferences
 
 <div class="usa-table--stacked">
   <table class="usa-table usa-table--borderless">
@@ -121,9 +121,9 @@ subnav:
       </tr>
     </thead>
     <tbody>
-      {% assign articles = site.data.press | sort:"published" | reverse %}
+      {% assign articles = site.data.speaking | sort:"published" | reverse %}
       {% for article in articles %}
-      {% if article.type == "press" %}
+      {% if article.type == "conference" %}
       <tr>
         <th class="text-center" data-sort-value="{{ article.published }}">
           <span style="display: inline-block; width: 7em;">{{ article.published }}</span>
